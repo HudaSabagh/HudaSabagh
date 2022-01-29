@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @HudaSabagh
-- I'm  Coputer Computer Engineering.
+- 💞️I'm Computer Engineering.
 - 👀 I’m interested in Programming.
 - 🌱 I’m currently learning web development 
 - 💞️ I’m looking to collaborate on ...
