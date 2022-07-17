@@ -2,7 +2,7 @@
 - 💞️I'm Computer Engineering.
 - 👀 I’m interested in Programming.
 - 🌱 I’m currently  web developer
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking for a job
 - 📫 How to reach me ...
 
 <!---
