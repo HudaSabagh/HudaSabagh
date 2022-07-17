@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @HudaSabagh
 - 💞️I'm Computer Engineering.
 - 👀 I’m interested in Programming.
-- 🌱 I’m currently learning web development 
+- 🌱 I’m currently  web developer
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
